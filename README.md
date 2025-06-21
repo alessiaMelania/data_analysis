@@ -1,1 +1,3 @@
-# data_analysis
+# Data analysis
+
+https://wesmckinney.com/book/ 
