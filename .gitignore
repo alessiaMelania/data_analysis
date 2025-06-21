@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+
+exercises_slz/*
+datasets/*
+
+!datasets/movielens/
+!datasets/movielens/**
