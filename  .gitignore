@@ -1,0 +1,7 @@
+.DS_Store
+
+exercises_slz/*
+datasets/*
+
+!datasets/movielens/
+!datasets/movielens/**
